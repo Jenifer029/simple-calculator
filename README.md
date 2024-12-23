@@ -93,11 +93,6 @@ Let me know if you need help customizing this further or if you have more questi
 6. Can you suggest other projects to build after this one?
 7. How can I include the README file in my GitHub repository?
 
-### Tip:
-When creating a `README.md`, include code examples or screenshots to help users quickly understand and use your project.
-
-
-
 
 ## OUTPUT
 ![Screenshot 2024-12-16 122311](https://github.com/user-attachments/assets/84445a69-a031-433f-9a02-2fe22fc87003)
